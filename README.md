@@ -18,41 +18,41 @@ Moreover, Mister Beast helps YouTubers by advising on various strategic elements
    - Theme: Participants enter a series of increasingly complex and themed escape rooms. 
    - Challenge: Contestants must solve each room's puzzle within a time limit to advance.
 
-3. Logistics Planning
+2. Logistics Planning
    
    - Location: Rent a large warehouse that can be divided into sections for each themed room.
    - Design: Hire set designers to create immersive environments (e.g., Ancient Egypt, a space station).
    - Safety Measures: Ensure safety features, trained staff, and medical personnel on standby.
    - Participants: Recruit MrBeast’s friends, fans, and a celebrity guest.
 
-4. Budget and Resources
+3. Budget and Resources
    
    - Prizes: Allocate budget for a grand prize ($100,000) and smaller prizes.
    - Sponsorships: Seek partnerships with brands for themed items or financial support.
 
-5. Filming and Production
+4. Filming and Production
    
    - Equipment: Use multiple camera setups in each room.
    - Crew: Hire experienced personnel for filming, sound, and editing.
    - Post-Production: Focus on fast-paced editing, dramatic music, and graphics.
 
-6. Promotion Strategy
+5. Promotion Strategy
    
    - Teaser Videos: Release sneak peeks of the escape rooms.
    - Social Media: Use countdown posts, behind-the-scenes content, and interactive puzzles.
    - Collaborations: Engage other YouTubers to promote the challenge.
 
-7. Legal Considerations
+6. Legal Considerations
    
    - Releases: Ensure all participants sign waivers and consent forms.
    - Rules Compliance: Check adherence to local and international laws.
 
-9. Audience Engagement
+7. Audience Engagement
     
    - Interactive Elements: Allow viewers to vote on certain elements.
    - Feedback: Incorporate viewer suggestions from comments.
 
-11. Goal Setting
+8. Goal Setting
     
    - Viewership Goals: Aim for a significant increase in views.
    - Engagement Metrics: Track likes, shares, and comments.
